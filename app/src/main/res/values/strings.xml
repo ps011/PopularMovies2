@@ -17,7 +17,7 @@
 <resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
     <string name="app_name" translatable="false">PopMovies</string>
     <string name="__leak_canary_display_activity_label" translatable="false">PopMovies Leaks</string>
-    <string name="content_authority" translatable="false">tk.prasheelsoni.popularmovies2.provider</string>
+    <string name="content_authority" translatable="false">tk.prasheelsoni.udacity.popularmovies.provider</string>
 
     <!-- Screen titles -->
     <string name="title_browse_movies">PopMovies</string>

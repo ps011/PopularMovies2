@@ -29,7 +29,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <tk.prasheelsoni.popularmovies2.ui.widget.AspectLockedImageView
+        <tk.prasheelsoni.udacity.popularmovies.ui.widget.AspectLockedImageView
             android:id="@+id/movie_item_image"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
