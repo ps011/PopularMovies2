@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/ps11/Downloads/popular-movies-2-master/app/src/main/res/values-sw720dp/integers.xml -->
+    <eat-comment/>
+    <integer name="details_weight">3</integer>
+    <integer name="master_weight">2</integer>
+</resources>

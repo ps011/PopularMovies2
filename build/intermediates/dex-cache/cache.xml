@@ -2,193 +2,81 @@
 <items version="2" >
 
     <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/gson-2.3.1-3756895eb6cf994af915c2a935bd22f9c169b137.jar" />
+        revision="23.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-cf8a42681c4f7f25a8c60b447c37c073272c3092.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.android.support/palette-v7/22.2.1/jars/classes.jar"
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="d3aba1c188fea5ee83ebbcb458be29d1cc0ef483">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-cdc44242adb3bb96519889d2e7a534210500d8db.jar" />
+        revision="23.0.3"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/glide-3.6.0-c0ccb8054f7d2f8367abeef9ba2f7f2149685ca4.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="e8f912ee19ad84958510883ea191135276b091f8">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-8da1add3d210dbeb6a4537f0ce14cf1247aa0279.jar" />
+        revision="23.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9757259427efee318ccdc1441530f0acffa6ac43.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3.1-09e4433bf1ec42e8f7a049663e3890c8d5708998.jar" />
+        revision="23.0.3"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-52afcda43a3c70b923f7666812d9477abff4c48b.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-26e5df6c256011cbb60ac4d3c7f9098a96f2941b.jar" />
+        revision="23.0.3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-d8b64ec1ede47961253a26e8a3f2fde3e7a75845.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jar="/Users/ps11/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="6904771474c058abfc5912c13d12b02754712165">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3.1-9f6691c3529f67b80df22de7a9c3f26ee5533a4d.jar" />
+        revision="23.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ce1f5332e07f7d521f19db1914a339268a664f46.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-a2df357e97619559708372f95f5d43f7adc34e7b.jar" />
+        revision="23.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-0364bc506454f550c2f665c22a08c840a2756371.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.github.provigen/ProviGen-lib/2.0.0/781260f61e357b4f4e07096764334c3debb9a3f5/ProviGen-lib-2.0.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-e20431ea4e82a9be2c1b664aa787c8376f7498a5.jar" />
+        revision="23.0.3"
+        sha1="781260f61e357b4f4e07096764334c3debb9a3f5">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/ProviGen-lib-2.0.0-e24ff6a8ac920af1a4ebf99ef44d4ef35a391243.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-fe0c83f9dba790073c4a8f39b8089763c4868882.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/okio-1.3.0-47e2f51a6d920a5ed3e0f118907f203f8397ff50.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/haha-1.3-69a9648ccf5991e209f495be1f1faa3103515c2a.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/javax.inject-1-c595e3b16465dd240fdb81b752e698644ca37326.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d27c12450a51a314a141c043e15d8aba3d719c0b.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/glide-3.6.1-5c72732ad9cbd7ade2d45233a892646991ab86bf.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a60ad76c555501c6326126340f64fe7bd948e3eb">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-48b5c6f647c780e4e87c14727d15517c3e7d1067.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.13/b8668706414b5936d38c8a9e4c2be16e3c999c62/rxjava-1.0.13.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b8668706414b5936d38c8a9e4c2be16e3c999c62">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/rxjava-1.0.13-6498658b3d9b71f8af40227d6b91ad4534e185e5.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-6156fe5828d7ac5fca03ec2dfb52de84c66b8285.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.squareup.sqlbrite/sqlbrite/0.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="628957a58b6f5908854ec39e087065dec3634916">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-f23d43503edb8040a4fb21190a5fefebc4ebef88.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp-integration/1.3.1/8ea5a823133bff9f612085e92271c7715ed187a9/okhttp-integration-1.3.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8ea5a823133bff9f612085e92271c7715ed187a9">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/okhttp-integration-1.3.1-d6eecc918565ac06f616519fa4158d5f7bd1fb48.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0-d37c0e5ccc77eb3ed95975d94842e97e5ebd7c37.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-4cb12657868fcdd5e9f118a427cb2af3edb47b09.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        revision="23.0.3"
         sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-6b986b291cfce6c5794c7dabff8cc4ce79d2bb94.jar" />
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-3fc451cde6cd8dc74ecb46a5bc173df1c1d3d33f.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/jars/classes.jar"
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-fd9cf63bc99a6df5a190dd1aa1c840ae4b65f35f.jar" />
+        revision="23.0.3"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-84e1d555aeb31729756dd402b08f0b559b3b64a5.jar" />
     </item>
     <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-b1ba3b53f28eaac99ff96127ecf8d90c57000a97.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.1.0/3ab2aedaeb4bfa698d0021cb843b2040fbf57fc/timber-3.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="03ab2aedaeb4bfa698d0021cb843b2040fbf57fc">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/timber-3.1.0-085424c33beab50f36c2b1fbbf561ff990452418.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/exploded-aar/com.github.florent37/glidepalette/1.0.2/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="eceeb0ebd0ad0654b20cd5b4f83cee00846efa97">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/classes-564b21449db705a74dfcc1b2f7833be014521a96.jar" />
-    </item>
-    <item
-        jar="/Users/rarenicks/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/Users/rarenicks/Downloads/udacity-popular-movies-master/PopularMovies2/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-619cbb248efcb33b4f5c772631bb0b3fc94f87c0.jar" />
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/gson-2.3.1-73e39af022a97c90420aad78a931aae713a7018b.jar" />
     </item>
 
 </items>
