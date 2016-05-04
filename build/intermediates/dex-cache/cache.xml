@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-cf8a42681c4f7f25a8c60b447c37c073272c3092.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/glide-3.6.0-c0ccb8054f7d2f8367abeef9ba2f7f2149685ca4.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9757259427efee318ccdc1441530f0acffa6ac43.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-52afcda43a3c70b923f7666812d9477abff4c48b.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-d8b64ec1ede47961253a26e8a3f2fde3e7a75845.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ce1f5332e07f7d521f19db1914a339268a664f46.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-0364bc506454f550c2f665c22a08c840a2756371.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.github.provigen/ProviGen-lib/2.0.0/781260f61e357b4f4e07096764334c3debb9a3f5/ProviGen-lib-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="781260f61e357b4f4e07096764334c3debb9a3f5">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/ProviGen-lib-2.0.0-e24ff6a8ac920af1a4ebf99ef44d4ef35a391243.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-3fc451cde6cd8dc74ecb46a5bc173df1c1d3d33f.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/classes-84e1d555aeb31729756dd402b08f0b559b3b64a5.jar" />
+    </item>
+    <item
+        jar="/Users/ps11/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/ps11/Downloads/popular-movies-2-master/app/build/intermediates/pre-dexed/debug/gson-2.3.1-73e39af022a97c90420aad78a931aae713a7018b.jar" />
+    </item>
+
+</items>

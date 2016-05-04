@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.abhelly.movies"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MovieTheme" >
+        <activity
+            android:name="me.abhelly.movies.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.abhelly.movies.DetailsActivity"
+            android:label="@string/label_details"
+            android:theme="@style/Details.MovieTheme" />
+
+        <provider
+            android:name="me.abhelly.movies.provider.MovieProvider"
+            android:authorities="me.abhelly.movie"
+            android:exported="false" />
+    </application>
+
+</manifest>
